@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Naga Vinay</h1>
 
-<!--
-**nagavinay005-cloud/nagavinay005-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Web Developer | React Developer | CSIT Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern websites, AI-powered applications, and premium landing pages.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Information Technology
+- 💻 Full Stack Web Developer
+- ⚛️ React Developer
+- 🌱 Currently learning AI, MERN Stack & Cloud
+- 🎯 Goal: Become a Top Software Engineer
+- 📍 Andhra Pradesh, India
+
+---
+
+## 💻 Tech Stack
+
+HTML5 • CSS3 • JavaScript • React • Node.js • Express • MongoDB • Git • GitHub • Firebase • Vite
+
+---
+
+## 🚀 Current Projects
+
+- 🏢 Ark The Pride Landing Page
+- 🎓 Department Portal
+- 📊 Attendance Management System
+- 🌐 Personal Portfolio
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/nagavinay005-cloud
+
+LinkedIn:
+(Coming Soon)
+
+Portfolio:
+(Coming Soon)
+
+---
+
+⭐ Thanks for visiting my profile!
